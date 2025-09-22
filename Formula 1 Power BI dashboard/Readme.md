@@ -13,10 +13,6 @@ Here are a few screenshots from the dashboard:
 - **Main Dashboard**  
   ![Dashboard Screenshot]
 
-   - **McLaren Car Pa<img width="1369" height="742" alt="Screenshot 2025-09-14 231348" src="https://github.com/user-attachments/assets/ca5549c4-c568-45fc-b8b5-89d41b5ddfa9" />
-
-- 
-
 <img width="1369" height="742" alt="Screenshot 2025-09-14 231348" src="https://github.com/user-attachments/assets/3ea4413c-7629-4920-8fee-e2d5f63f0214" />
 
 <img width="1372" height="744" alt="Screenshot 2025-09-16 102554" src="https://github.com/user-attachments/assets/d5d91e64-fe3a-42ff-a283-9baeb4ae8048" />

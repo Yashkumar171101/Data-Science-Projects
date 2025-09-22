@@ -20,6 +20,8 @@ Here are a few screenshots from the dashboard:
 <img width="1368" height="740" alt="Screenshot 2025-09-16 102908" src="https://github.com/user-attachments/assets/b03ec3a4-f76d-4f19-b472-02c98ff10b46" />
 <img width="1370" height="733" alt="Screenshot 2025-09-16 102820" src="https://github.com/user-attachments/assets/2a1ebd45-d545-4116-ab2a-42bfe8e8197b" />
 
+<img width="1372" height="750" alt="Screenshot 2025-09-15 132413" src="https://github.com/user-attachments/assets/0065d8f0-e371-4041-8615-3294c28369a8" />
+
 ---<img width="1369" height="745" alt="Screenshot 2025-09-16 102716" src="https://github.com/user<img width="1370" height="740" alt="Screenshot 2025-09-16 102842" src="https://github.com/user-at<img width="1370" height="739" alt="Screenshot 2025-09-16 102941" src="https://github.com/user-attachments/assets/f3adc115-8d57-4ed3-a1dd-534c62202c25" />
 tachments/assets/47cbc0cc-aeea-4ada-9a1a-6516c3f59e4a" />
 -attachments/assets/ccb38603-5a59-40da-bcb2-5b31563b05b0" />
